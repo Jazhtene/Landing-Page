@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+
+
+
+body{
+    margin: opx;
+}
+html{
+    background-image: url(668454.webp) ;
+    background-size: cover;
+     background-attachment: fixed;
+}
+     
+h1{
+    text-align: center;
+    font-family: Rubik Doodle Shadow;
+    font-size: 60px;
+    
+    background-color: rgb(223, 155, 153);
+}   
+.navbar {
+    list-style-type: none;
+    background-color: rgb(161, 173, 157);
+    background-size: 69;
+    
+    padding: 12px;
+    margin: 0px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: Rubik Doodle Shadow;
+    overflow: hidden;
+   
+}
+
+.navbar li{
+    float: right;
+    margin:15px;
+}
